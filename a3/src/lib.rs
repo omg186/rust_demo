@@ -4,7 +4,7 @@ pub fn display_message(visible: bool) -> String {
         "hello".to_string()
     } else {
         println!("goodbye");
-        "godbye".to_string()
+        "goodbye".to_string()
     }
 }
 
