@@ -1,8 +1,10 @@
 pub fn display_message(visible: bool) -> String {
     if visible {
+        println!("hello");
         "hello".to_string()
     } else {
-        "goodbye".to_string()
+        println!("goodbye");
+        "godbye".to_string()
     }
 }
 
