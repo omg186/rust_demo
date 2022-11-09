@@ -11,4 +11,5 @@ members = [
     "a8_vector",
     "a9_string",
     "a10_option",
+    "a11_result"
 ]
