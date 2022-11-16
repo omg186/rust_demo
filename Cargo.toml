@@ -11,5 +11,6 @@ members = [
     "a8_vector",
     "a9_string",
     "a10_option",
-    "a11_result"
+    "a11_result",
+    "a12_hashmap",
 ]
