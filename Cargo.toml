@@ -13,4 +13,5 @@ members = [
     "a10_option",
     "a11_result",
     "a12_hashmap",
+    "a13_closures",
 ]
